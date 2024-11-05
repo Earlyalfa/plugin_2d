@@ -13,4 +13,4 @@
 ---
 
 ## SS hasil projek
-![Screenshot 1](assets/1.jpg)
+![Screenshot 1](assets/8.jpg)
